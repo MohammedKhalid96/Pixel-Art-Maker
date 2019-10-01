@@ -1,0 +1,54 @@
+body {
+  font-family: "Rajdhani", sans-serif;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+/* title */
+h1 {
+  font-family: "Cabin Sketch", cursive;
+  font-size: 64px;
+  margin: 0.5em;
+}
+
+h2 {
+  margin-bottom: 0.4em;
+}
+
+h2:first-of-type {
+  margin-top: 0.5em;
+}
+
+.section {
+  margin-bottom: 2em;
+}
+
+/* form */
+input[type="number"] {
+  width: 6em;
+}
+
+#inputHeight {
+  margin-right: 0.8em;
+}
+
+/* table */
+table,
+tr,
+td {
+  border: 1px solid #000;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+tr {
+  height: 20px;
+}
+
+td {
+  width: 20px;
+}
+
